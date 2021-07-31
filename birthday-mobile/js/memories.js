@@ -7,7 +7,7 @@ $(function () {
 });
 
 
-loadAudioFile('./music/2.mp3');
+loadAudioFile('./birthday-mobile/music/2.mp3');
 
 // 只能用户操作后才能播放音频
 // $(window).click(function () {
